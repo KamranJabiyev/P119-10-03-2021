@@ -1,0 +1,6 @@
+E:\P119\C#\Static\Static\bin\Debug\Static.exe.config
+E:\P119\C#\Static\Static\bin\Debug\Static.exe
+E:\P119\C#\Static\Static\bin\Debug\Static.pdb
+E:\P119\C#\Static\Static\obj\Debug\Static.csprojAssemblyReference.cache
+E:\P119\C#\Static\Static\obj\Debug\Static.exe
+E:\P119\C#\Static\Static\obj\Debug\Static.pdb
